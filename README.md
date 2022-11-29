@@ -1,3 +1,8 @@
+
+A very simple todo list using only bootstrap and Angular. This small app does very simple two-way data binding to add/remove items from an array. A model class is used for defining content of type string and completed being either true or false boolean value. It incorporates three class methods: One of these methods is for toggling on and off if a task is complete and given a strike-through effect if you click on the text. Another using a filter method to delete items. And an add method to push some text-input the user writes into an array called inputTodo which is then iterated on using an ngFor structural directive.
+
+![203200904-04e76c40-eeca-4e53-a4bb-422e991b6673](https://user-images.githubusercontent.com/48900828/204435014-b7fff047-8ee4-4bbb-b031-31cb60f974ab.png)
+
 # ToDoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
